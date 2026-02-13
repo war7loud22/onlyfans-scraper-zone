@@ -1,4 +1,4 @@
-# OnlyFans Scraper zone
+# OnlyFans Scraper
 ![License](https://img.shields.io/badge/license-MIT-black.svg?style=flat)
 
 # Description
@@ -23,7 +23,6 @@ A CLI tool that lets you download media, manage likes, and perform various actio
 - Full requirements are provided in requirements.txt
 
 # **Guidance for Windows/macOS:** 
-Proceed with the manual installation. On macOS, you may prefer the one-click setup from the [.dmg file](../../releases).
 
 
 # Setup
